@@ -1,0 +1,2 @@
+# biblioteca_musical
+Este código es una secuencia de comandos SQL que crea una base de datos llamada biblioteca_musical y las tablas necesarias para registrar información sobre usuarios, géneros, artistas, álbumes, sencillos, listas de reproducción y asignaciones de planes de suscripción.
